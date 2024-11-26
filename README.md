@@ -1,4 +1,4 @@
-simple flask app to download yt video with yt-dlp
+simple flask app to download audio from yt video with yt-dlp
 
 ```
 pip install -r requirements.txt
